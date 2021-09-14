@@ -78,6 +78,10 @@ h2 {
     color: #585858;
 }
 
+ul {
+    list-style: none;
+}
+
 .to-do-entries {
     padding-left: 47px;
     padding-top: 10px;
