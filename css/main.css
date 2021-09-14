@@ -5,8 +5,11 @@
     font-family: sans-serif;
 }
 
+body {
+    background-color: lightgray;
+}
+
 #container {
-    width: 55%;
     height: 63px;
     margin: 0 auto;
     background-color: white;
