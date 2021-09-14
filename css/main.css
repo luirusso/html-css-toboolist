@@ -59,6 +59,23 @@ body {
 }
 
 hr {
-    width: 65%;
+    width: 100%;
+    margin: 5px auto;
     border: 1px solid lightgrey;
+}
+
+#container-task {
+    width: 100%;
+    height: auto;
+    margin-top: -5px;
+    background-color: white;
+    border-radius: 0px 0px 4px 4px;
+}
+
+h2 {
+    padding-left: 47px;
+}
+
+.to-do-entries {
+    padding-left: 47px;
 }
