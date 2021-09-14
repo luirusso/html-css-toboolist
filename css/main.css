@@ -49,7 +49,6 @@ body {
     color: white;
     background-color: #51c5ff;
     padding-top: 12px;
-
 }
 
 .section {
@@ -70,18 +69,91 @@ hr {
     margin-top: -5px;
     background-color: white;
     border-radius: 0px 0px 4px 4px;
+    padding-bottom: 50px;
 }
 
 h2 {
     padding-left: 47px;
     padding-top: 30px;
-    color: #1d1d1d;
+    color: #585858;
 }
 
 .to-do-entries {
     padding-left: 47px;
     padding-top: 10px;
     color: #474747;
+}
+
+.editorial-label {
+    margin-left: 2px;
+    color: white;
+    background-color: #51c5ff;
+    display: inline-block;
+    height: 27px;
+    vertical-align: middle;
+    padding: 6px;
+    border-radius: 14px;
+    font-size: 12px;
+}
+
+.q1-goals-label {
+    margin-left: 2px;
+    color: white;
+    background-color: #aa32ce;
+    display: inline-block;
+    height: 27px;
+    vertical-align: middle;
+    padding: 6px;
+    border-radius: 14px;
+    font-size: 12px;
+}
+
+.recruiting-label {
+    margin-left: 2px;
+    color: white;
+    background-color: #00b16d;
+    display: inline-block;
+    height: 27px;
+    vertical-align: middle;
+    padding: 6px;
+    border-radius: 14px;
+    font-size: 12px;
+}
+
+.mobile-label {
+    margin-left: 2px;
+    color: white;
+    background-color: #dd8500;
+    display: inline-block;
+    height: 27px;
+    vertical-align: middle;
+    padding: 6px;
+    border-radius: 14px;
+    font-size: 12px;
+}
+
+.website-label {
+    margin-left: 2px;
+    color: white;
+    background-color: #ff009d;
+    display: inline-block;
+    height: 27px;
+    vertical-align: middle;
+    padding: 6px;
+    border-radius: 14px;
+    font-size: 12px;
+}
+
+.sales-label {
+    margin-left: 2px;
+    color: white;
+    background-color: #69b900;
+    display: inline-block;
+    height: 27px;
+    vertical-align: middle;
+    padding: 6px;
+    border-radius: 14px;
+    font-size: 12px;
 }
 
 .check {
