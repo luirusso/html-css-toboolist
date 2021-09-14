@@ -80,6 +80,7 @@ h2 {
 
 ul {
     list-style: none;
+    line-height: 40px;
 }
 
 .to-do-entries {
@@ -95,9 +96,11 @@ ul {
     display: inline-block;
     height: 27px;
     vertical-align: middle;
-    padding: 6px;
     border-radius: 14px;
     font-size: 12px;
+    width: 57px;
+    text-align: center;
+    padding-bottom: 36px;
 }
 
 .q1-goals-label {
@@ -107,9 +110,11 @@ ul {
     display: inline-block;
     height: 27px;
     vertical-align: middle;
-    padding: 6px;
     border-radius: 14px;
     font-size: 12px;
+    text-align: center;
+    padding-bottom: 36px;
+    width: 57px;
 }
 
 .recruiting-label {
@@ -119,9 +124,11 @@ ul {
     display: inline-block;
     height: 27px;
     vertical-align: middle;
-    padding: 6px;
     border-radius: 14px;
     font-size: 12px;
+    text-align: center;
+    padding-bottom: 36px;
+    width: 57px;
 }
 
 .mobile-label {
@@ -131,9 +138,11 @@ ul {
     display: inline-block;
     height: 27px;
     vertical-align: middle;
-    padding: 6px;
     border-radius: 14px;
     font-size: 12px;
+    text-align: center;
+    padding-bottom: 36px;
+    width: 57px;
 }
 
 .website-label {
@@ -143,9 +152,11 @@ ul {
     display: inline-block;
     height: 27px;
     vertical-align: middle;
-    padding: 6px;
     border-radius: 14px;
     font-size: 12px;
+    text-align: center;
+    padding-bottom: 36px;
+    width: 57px;
 }
 
 .sales-label {
@@ -155,9 +166,11 @@ ul {
     display: inline-block;
     height: 27px;
     vertical-align: middle;
-    padding: 6px;
     border-radius: 14px;
     font-size: 12px;
+    text-align: center;
+    padding-bottom: 36px;
+    width: 57px;
 }
 
 .check {
