@@ -21,3 +21,23 @@
 #logo-text {
     font-size: 40px;
 }
+
+#container-main {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.task-button {
+    display: inline-block;
+    width: 80px;
+    height: 27px;
+    background-color: blue;
+    margin-top: 35px;
+    color: white;
+    padding: 5px;
+    border-radius: 11%;
+}
+
+#section-button {
+
+}
