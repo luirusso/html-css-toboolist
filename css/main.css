@@ -24,3 +24,41 @@ body {
     font-size: 40px;
 }
 
+#container-main {
+    width: 65%;
+    height: 52px;
+    margin-top: 45px;
+    background-color: white;
+    border-radius: 4px 4px 0 0;
+}
+
+.button {
+    display: inline-block;
+    margin-top: 9px;
+    height: 37px;
+    width: 96px;
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 9px;
+    border-radius: 5px;
+    font-size: 13px;
+}
+
+.task {
+    margin-left: 50px;
+    color: white;
+    background-color: #51c5ff;
+    padding-top: 12px;
+
+}
+
+.section {
+    margin-left: 4px;
+    color: lightgrey;
+    border-style: solid;
+}
+
+hr {
+    width: 65%;
+    border: 1px solid lightgrey;
+}
