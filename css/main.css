@@ -5,12 +5,11 @@
     font-family: sans-serif;
 }
 
-
 #container {
     width: 55%;
     height: 63px;
     margin: 0 auto;
-    background-color: aqua;
+    background-color: white;
 }
 
 #container-logo {
@@ -22,13 +21,3 @@
     font-size: 40px;
 }
 
-#container-main {
-    width: 55%;
-    height: 500px;
-    background-color: grey;
-}
-
-#task-button {
-    margin-top: 0;
-    padding-top: 50px;
-}
