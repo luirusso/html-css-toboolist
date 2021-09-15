@@ -6,10 +6,10 @@
 }
 
 body {
-    background-color: lightgray;
+    background-color: #F6F8F9;
 }
 
-#container {
+#container-header {
     height: 63px;
     margin: 0 auto;
     background-color: white;
@@ -22,6 +22,7 @@ body {
 
 #logo-text {
     font-size: 40px;
+    font-weight: 700;
 }
 
 #container-main {
@@ -60,7 +61,7 @@ body {
 hr {
     width: 100%;
     margin: 5px auto;
-    border: 1px solid lightgrey;
+    border: 1px solid #F6F8F9;
 }
 
 #container-task {
@@ -97,10 +98,10 @@ ul {
     height: 27px;
     vertical-align: middle;
     border-radius: 14px;
-    font-size: 12px;
+    font-size: 10px;
     width: 57px;
     text-align: center;
-    padding-bottom: 36px;
+    line-height: 27px;
 }
 
 .q1-goals-label {
@@ -111,10 +112,10 @@ ul {
     height: 27px;
     vertical-align: middle;
     border-radius: 14px;
-    font-size: 12px;
+    font-size: 10px;
     text-align: center;
-    padding-bottom: 36px;
     width: 57px;
+    line-height: 27px;
 }
 
 .recruiting-label {
@@ -125,10 +126,10 @@ ul {
     height: 27px;
     vertical-align: middle;
     border-radius: 14px;
-    font-size: 12px;
+    font-size: 10px;
     text-align: center;
-    padding-bottom: 36px;
     width: 57px;
+    line-height: 27px;
 }
 
 .mobile-label {
@@ -139,10 +140,10 @@ ul {
     height: 27px;
     vertical-align: middle;
     border-radius: 14px;
-    font-size: 12px;
+    font-size: 10px;
     text-align: center;
-    padding-bottom: 36px;
     width: 57px;
+    line-height: 27px;
 }
 
 .website-label {
@@ -153,10 +154,10 @@ ul {
     height: 27px;
     vertical-align: middle;
     border-radius: 14px;
-    font-size: 12px;
+    font-size: 10px;
     text-align: center;
-    padding-bottom: 36px;
     width: 57px;
+    line-height: 27px;
 }
 
 .sales-label {
@@ -167,26 +168,28 @@ ul {
     height: 27px;
     vertical-align: middle;
     border-radius: 14px;
-    font-size: 12px;
+    font-size: 10px;
     text-align: center;
-    padding-bottom: 36px;
     width: 57px;
+    line-height: 27px;
 }
 
 .check {
-    color: lightgreen;
-    border: 1px solid lightgreen;
+    color: #97D8CA;
+    border: 2px solid #97D8CA;
     border-radius: 50%;
     padding: 2px 4px 3px 7px;
     text-align: left;
     font-size: 15px;
+    margin-right: 10px;
 }
 
 .delete {
-    color: rgb(255, 104, 104);
-    border: 1px solid rgb(255, 104, 104);
+    color: #F09D9A;
+    border: 2px solid #F09D9A;
     border-radius: 50%;
     padding: 2px 0px 3px 7px;
     text-align: center;
     font-size: 14px;
+    margin-right: 10px;
 }
